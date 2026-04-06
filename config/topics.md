@@ -1,5 +1,8 @@
+#CCA-DRR integration
+Either conceptual, or a case study approach, that looks at the interconnection between climate change adaptation and disaster risk. I want to know about benefits, challenges, trade-offs, barriers, approaches, methods, processes, frameworks. Actor network analysis of CCA-DRR integration governments. Critical policy reviews based on CCA-DRR integration. 
+
 #Disaster risk reduction (DRR)
-The historical development of the disaster risk reduction paradigm, its conceptual frameworks and theories, current and future DRR policies, processes and case studies focused within a governmental area. Criticisms and new theories, how DRR can be more systemic and address the root causes of risk rather than hazards alone. I am less interested in participatory methods and local level risk assessment, and more interested in the political governance / political ecology side of things where policy is created. I am interested in network analysis of institutions and process tracing of specific hazards or policies. I am interested in the interlinkages of DRR and climate change adaptation. This also includes references to Disaster Risk Management (DRM). This may also be called Emergency Management in some places. 
+The historical development of the disaster risk reduction paradigm, its conceptual frameworks and theories, current and future DRR policies, processes and case studies focused within a governmental area. Criticisms and new theories, how DRR can be more systemic and address the root causes of risk rather than hazards alone. I am less interested in participatory methods and local level risk assessment, and more interested in the political governance / political ecology side of things where policy is created. I am interested in network analysis of institutions and process tracing of specific hazards or policies. I am interested in the interlinkages of DRR and climate change adaptation. This also includes references to Disaster Risk Management (DRM), and Emergency Management or IEM in some places. 
 
 #Disaster risk creation (DRC)
 New theories, ideas and concepts relating to disaster risk creation as opposed to disaster risk reduction. What constitutes DRC? Why is it better or worse than disaster risk reduction or disaster risk management? What are its main componenets? How does DRC fit into risk governance at the national or international levels? 
@@ -24,9 +27,6 @@ Research that explores how risk is governance at national, regional and internat
 
 #Sustainable development
 The historical development of the sustainable development paradigm, its conceptual frameworks and theories, current and future sustianable development policies, processes and case studies focused within a governmental area (ideally related to climate change adaptation and/or disaster risk reduction). Criticisms and new theories, how sustainable development can be more systemic and address the root causes of risk rather than hazards alone. 
-
-#CCA-DRR integration
-Either conceptual, or a case study approach, that looks at the interconnection between climate change adaptation and disaster risk. I want to know about benefits, challenges, trade-offs, barriers, approaches, methods, processes, frameworks. Actor network analysis of CCA-DRR integration governments. Critical policy reviews based on CCA-DRR integration. 
 
 #Foresight analysis
 The method of using foresight analysis or future scenario analysis to create possible futures and evaluate actions and outcomes, in relation to climate change adaptation or disaster risk management. Methodology and methods used, data collected, insights into the possible scenarios created, and in particular if any mixed methods approaches were used. 
