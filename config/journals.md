@@ -75,6 +75,7 @@ International Journal of Disaster Risk Management
 International Journal of Disaster Risk Science
 International Journal of Environmental Research and Public Health
 International Journal of Environmental Science and Technology
+International Jounral of Justice and Sustainability
 International Journal of the Humanities and Social Sciences
 International Journal of Social Science and Entrepreneurship
 iScience
@@ -88,6 +89,7 @@ Journal of Environmental Management
 Journal of Environmental Planning and Management
 Journal of Environmental Policy & Planning
 Journal of Environmental Studies and Sciences
+Journal of Future Studies, Strategic Thinking and Policy
 Journal of Homeland Security and Emergency Management
 Journal of International Development
 Journal of International Humanitarian Legal Studies
@@ -97,6 +99,7 @@ Journal of Sustainable Development
 Journal of Risk Research
 Land Use Policy
 Mitigation and Adaptation Strategies for Global Change
+Natural Hazard Science
 Natural Hazards
 Natural Hazards and Earth System Sciences
 Natural Resources Forum
@@ -121,6 +124,7 @@ Policy Design and Practice
 Policy Sciences
 Regional Environmental Change
 Regional Studies
+Regulation & Governance
 Review of European Community & International Environmental Law
 Revue d'Anthropologie des Connaissances
 Risk, Hazards & Crisis in Public Policy
@@ -153,6 +157,7 @@ The Geographical Journal
 The Institute of Development Studies and Partner Organisations
 The Journal for Transdisciplinary Research in Southern Africa
 The Lancet Planetary Health
+Urban Studies
 Western Pacific Surveillance and Response
 Wiley: Climate Resilience and Sustainability
 Wiley: Disasters
