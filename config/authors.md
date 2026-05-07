@@ -109,3 +109,14 @@ Gemma Cremen
 Emily Boyd
 Vanessa Burns
 Kathleen Tierney
+Ilan Noy
+Albert J. Kettner
+Gabriele Messori
+Marleen de Ruiter
+Robert Sakic Troglic
+Silvia de Angeli
+Melanie Duncan
+Joel Gill
+Stefan Hochrainer-Stigler
+Heidi Kreibich
+Christopher White
