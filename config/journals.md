@@ -134,6 +134,7 @@ Science of The Total Environment
 ScienceDirect: Natural Hazards Research
 ScienceDirect: Progress in Disaster Science
 ScienceDirect: Weather and Climate Extremes
+Scottish Geographical Journal
 SocArXiv
 Social Science Research Network
 Social Sciences
@@ -148,6 +149,7 @@ Sustainable Development and Disaster Risk Reduction
 Sustainable Futures
 Sustainability
 Sustainability Science
+Sustainability: Science, Practice and Policy
 Taylor & Francis
 Taylor & Francis: Climate and Development
 Taylor & Francis: Environmental Hazards
