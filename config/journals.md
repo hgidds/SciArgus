@@ -56,6 +56,7 @@ Frontiers in Earth Science
 Frontiers in Human Dynamics
 Gateways: International Jounral of Community Research and Engagement
 Gender, Place & Culture
+Geographies
 Geography
 Geography and Sustainability
 Geomatics, Natural Hazards and Risk
@@ -82,6 +83,8 @@ iScience
 J-STAGE Jounral of Disaster Research
 Jàmbá
 Jàmbá: Journal of Disaster Risk Studies
+Journal of City Climate POlicy and EConomy
+Journal of Climage Change, Disaster Risk and Resilience Studies
 Journal of Cleaner Production
 Journal of Disaster Research
 Journal of Ecohumanism
