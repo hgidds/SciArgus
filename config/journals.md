@@ -148,6 +148,7 @@ Policy Sciences
 Political Analysis
 Political Behaviour
 Political Insight
+Political Geography
 Political Science Research and Methods
 Political Studies
 Political Theory
