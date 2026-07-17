@@ -1,13 +1,18 @@
+Administration & Society
 Advances in Climate Change Research
 Advances in Global Change Research
 Advances in Natural and Technological Hazards Research
 Ambio
+American Journal of Political Science
+American Political Science Review
 Annals of the American Association of Geographers
 Annual Review of Environment and Resources
+Annual Review of Political Science
 Applied Geography
 Asian Journal of Women's Studies
 Atmosphere
 British Journal of Management
+British Journal of Political Science
 Calamity: A Journal of Disaster Technology and Engineering
 Climate and Development
 Climate Resilience and Sustainability
@@ -19,6 +24,7 @@ Climate Policy
 Cities
 Creating Resilient Futures
 Critical Sociology
+Comparative Political Studies
 Contemporary Social Problems
 Cultural Geographies
 Current Opinion in Environmental Sustainability
@@ -42,6 +48,7 @@ Environment and Society: Advances in Research
 Environment and Planning E: Nature and Space
 Environmental Communication
 Environmental Evidence
+Environmental Governance and Policy
 Environmental Hazards
 Environmental Law for Transitions to Sustainability
 Environmental Management
@@ -49,7 +56,13 @@ Environmental Policy and Governance
 Environmental Politics
 Environmental Research Letters
 Environmental Science & Policy
+Environment and Planning A: Economy and Space
+Environment and Planning C: Politics and Space
+Environment and Planning D: Society and Space
+Environment and Planning E: Nature and Space
+Environment and Planning F: Philosophy, Theory, Models, Methods and Practice
 ESSOAr
+European Journal of Political Research
 Foresight
 Frontiers in Climate
 Frontiers in Earth Science
@@ -62,6 +75,8 @@ Geography and Sustainability
 Geomatics, Natural Hazards and Risk
 Global Environmental Change
 Global Sustainability
+Governance
+Health, Risk & Society
 Human Geography
 Human Organization
 Humanities and Social Sciences Communications
@@ -84,7 +99,7 @@ J-STAGE Jounral of Disaster Research
 Jàmbá
 Jàmbá: Journal of Disaster Risk Studies
 Journal of City Climate POlicy and EConomy
-Journal of Climage Change, Disaster Risk and Resilience Studies
+Journal of Climate Change, Disaster Risk and Resilience Studies
 Journal of Cleaner Production
 Journal of Disaster Research
 Journal of Ecohumanism
@@ -100,6 +115,8 @@ Journal of Management Info
 Journal of Strategic Innovation and Sustainability
 Journal of Sustainable Development
 Journal of Risk Research
+Journal of Politics
+Journal of Public Economics
 Land Use Policy
 Mitigation and Adaptation Strategies for Global Change
 Natural Hazard Science
@@ -114,6 +131,8 @@ One Earth
 OpenSpringer: Swiss Journal of Geosciences
 Pantao
 PaperASIA
+Parliamentary Affairs
+Perspectives on Politics
 Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
 Procedia Economics and Finance
 Procedia Engineering
@@ -123,9 +142,17 @@ Professional Geographer
 Progress in Disaster Science
 Progress in Environmental Geography
 Progress in Human Geography
+Policy & Politics
 Policy Design and Practice
 Policy Sciences
+Political Analysis
+Political Behaviour
+Political Insight
+Political Science Research and Methods
+Political Studies
+Political Theory
 Regional Environmental Change
+Regional & Federal Studies
 Regional Studies
 Regulation & Governance
 Review of European Community & International Environmental Law
@@ -157,13 +184,19 @@ Taylor & Francis
 Taylor & Francis: Climate and Development
 Taylor & Francis: Environmental Hazards
 Territory, Politics, Governance
+The Annals of Regional Science
 The Conversation
 The Geographical Journal
 The Institute of Development Studies and Partner Organisations
 The Journal for Transdisciplinary Research in Southern Africa
+The Journal of Politics
 The Lancet Planetary Health
+The Political Quarterly
+Urban Climate
 Urban Studies
 Western Pacific Surveillance and Response
+West European Politics
+World Development
 Wiley: Climate Resilience and Sustainability
 Wiley: Disasters
 Wiley Interdisciplinary Reviews: Climate Change
