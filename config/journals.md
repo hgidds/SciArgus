@@ -13,6 +13,7 @@ Asian Journal of Women's Studies
 Atmosphere
 British Journal of Management
 British Journal of Political Science
+British Journal of Politics and International Relations
 Calamity: A Journal of Disaster Technology and Engineering
 Climate and Development
 Climate Resilience and Sustainability
@@ -22,6 +23,7 @@ Climate Change, Extreme Events and Disaster Risk Reduction
 Climate Services
 Climate Policy
 Cities
+Comparative Territorial Politics
 Creating Resilient Futures
 Critical Sociology
 Comparative Political Studies
@@ -67,6 +69,7 @@ Foresight
 Frontiers in Climate
 Frontiers in Earth Science
 Frontiers in Human Dynamics
+Frontiers in Political Science
 Gateways: International Jounral of Community Research and Engagement
 Gender, Place & Culture
 Geographies
@@ -143,15 +146,21 @@ Progress in Disaster Science
 Progress in Environmental Geography
 Progress in Human Geography
 Policy & Politics
+Policy and Politics
+Policy and Society
 Policy Design and Practice
 Policy Sciences
+Policy Studies
 Political Analysis
 Political Behaviour
 Political Insight
 Political Geography
+Political Quarterly
 Political Science Research and Methods
 Political Studies
 Political Theory
+Politics and Governance
+Politics & Policy
 Regional Environmental Change
 Regional & Federal Studies
 Regional Studies
@@ -165,6 +174,7 @@ Science of The Total Environment
 ScienceDirect: Natural Hazards Research
 ScienceDirect: Progress in Disaster Science
 ScienceDirect: Weather and Climate Extremes
+Scottish Affairs
 Scottish Geographical Journal
 SocArXiv
 Social Science Research Network
@@ -181,7 +191,6 @@ Sustainable Futures
 Sustainability
 Sustainability Science
 Sustainability: Science, Practice and Policy
-Taylor & Francis
 Taylor & Francis: Climate and Development
 Taylor & Francis: Environmental Hazards
 Territory, Politics, Governance
